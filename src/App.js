@@ -95,8 +95,9 @@ function App() {
       {showFinalMessage && (
         <div className="final-message">
           <h2>Happy New Year in Advance!</h2>
-          <p>You’ve been in my thoughts every day, and I want to let you know how much you mean to me.</p>
-          <p>Would you like to be the reason behind my smile every day?</p>
+          <p>You’ve been in my thoughts every day, and I want to let you know how much you mean to me. i wanted to say every thing i felt this year</p>
+        <p>i want 2024 to end with no regrets and happily welcome 2025</p> 
+        <p>Would you like to be the same for me this year too? and i promise you we will fight less</p>
           <button onClick={() => setShowPopup(true)}>Do you think it’s over?</button>
         </div>
       )}
